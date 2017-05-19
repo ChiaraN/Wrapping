@@ -1,0 +1,2 @@
+/Users/chiara/Desktop/wrapping/build/CMakeFiles/wrapping.dir
+/Users/chiara/Desktop/wrapping/build/CMakeFiles/libWrapping.dir

@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/wrapping.dir/src/wrapping.c.o  -o bin/wrapping  lib/libMorphing.dylib -Wl,-rpath,/Users/chiara/Desktop/wrapping/build/lib 

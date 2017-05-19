@@ -1,0 +1,7 @@
+/usr/local/lib/libMorphing.dylib
+/usr/local/include/morphing/chrono.h
+/usr/local/include/morphing/libmesh5.h
+/usr/local/include/morphing/lplib3.h
+/usr/local/include/morphing/sparse.h
+/usr/local/include/morphing/wrapping.h
+/usr/local/bin/wrapping
